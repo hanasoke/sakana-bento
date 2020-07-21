@@ -1,0 +1,135 @@
+{
+    "menu": [{
+            "nama": "Beef Teriyaki",
+            "kandungan": "Sapi",
+            "komposisi": "Daging Sapi premium yang dimasak dengan potongan bawang bombay dan menggunakan saus teriyaki khas Sakana.",
+            "harga": 39000,
+            "gambar": "Beef-Teriyaki.jpg"
+        }, {
+            "nama": "Beef Yakiniku",
+            "kandungan": "Sapi",
+            "komposisi": "Daging Sapi premium yang dimasak dengan potongan bawang bombay dan paprika hijau menggunakan saus yakiniku khas Sakana.",
+            "harga": 39000,
+            "gambar": "Beef-Yakiniku.jpg"
+        },
+        {
+            "nama": "Chicken Teriyaki",
+            "kandungan": "Ayam",
+            "komposisi": " Daging ayam tanpa tulang yang dimasak dengan potongan bawang bombay dan saus teriyaki khas Sakana.",
+            "harga": 30000,
+            "gambar": "Chicken-Teriyaki.jpg"
+        },
+        {
+            "nama": "Chicken Yakiniku",
+            "kandungan": "Ayam",
+            "komposisi": "Daging ayam tanpa tulang yang dimasak dengan potongan bawang bombay dan saus yakiniku khas Sakana.",
+            "harga": 29000,
+            "gambar": "Chicken-Yakiniku.jpg"
+        },
+        {
+            "nama": "Chicken Karage",
+            "kandungan": "Ayam",
+            "komposisi": "Daging ayam berkualitas dan terpilih yang dimasak dengan teknik Deep Frying Oil sehingga menghasilkan tekstur tepung yang garing dan renyah serta bagian dalam yang empuk.",
+            "harga": 32000,
+            "gambar": "Crispy-Karaage.jpg"
+        },
+        {
+            "nama": "Ebi Furai",
+            "kandungan": "Udang",
+            "komposisi": "Udang yang dilapisi tepung roti,dimasak dengan metode Deep Frying Oil.",
+            "harga": 37000,
+            "gambar": "Ebi-Furai.jpg"
+        },
+        {
+            "nama": "Egg Chicken Roll",
+            "kandungan": "Ayam",
+            "komposisi": "Produk olahan daging ayam yang digulung dengan telur dan dimasak dengan metode Deep Frying Oil.",
+            "harga": 30000,
+            "gambar": "Egg-Chicken-Roll.jpg"
+        },
+        {
+            "nama": "Ekkado",
+            "kandungan": "Udang",
+            "komposisi": "Produk spesial Sakana yang dibuat dari telur puyuh berlapis olahan daging udang, dibungkus dengan kulit tahu lalu diikat dengan daun kucai dan dimasak dengan metode Deep Frying Oil.",
+            "harga": 38000,
+            "gambar": "Ekkado.jpg"
+        },
+        {
+            "nama": "Kaniroll",
+            "kandungan": "Kepiting",
+            "komposisi": "Dihasilkan dari olahan rajungan yang dibungkus dengan kulit tahu dan dimasak dengan metode Deep Frying Oil.",
+            "harga": 30000,
+            "gambar": "Kaniroll.jpg"
+        },
+        {
+            "nama": "Es Sarang Burung",
+            "kandungan": "Minuman",
+            "komposisi": "Agar - agar dan buah kelengkeng yang disajikan dengan air gula serta es serut sebagai makanan penutup.",
+            "harga": 18000,
+            "gambar": "Es-Sarang-Burung.jpg"
+        },
+        {
+            "nama": "Jus Jeruk",
+            "kandungan": "Minuman",
+            "komposisi": "Sari buah asli yang dibuat dari jeruk segar pilihan.",
+            "harga": 18000,
+            "gambar": "Jus-Jeruk.jpg"
+        },
+        {
+            "nama": "Cold Ocha",
+            "kandungan": "Minuman",
+            "komposisi": "Teh hijau khas Jepang yang dingin dan segar.",
+            "harga": 7000,
+            "gambar": "Ocha.jpg"
+        },
+        {
+            "nama": "Aoi Ocha",
+            "kandungan": "Minuman",
+            "komposisi": "Campuran Beberapa Juice yang lezat",
+            "harga": 14000,
+            "gambar": "aoi-ocha.jpg"
+        },
+        {
+            "nama": "Chocolate Pudding",
+            "kandungan": "Pudding",
+            "komposisi": "Pudding dengan aroma dan rasa coklat",
+            "harga": 20000,
+            "gambar": "Chocolate-Pudding.jpg"
+        },
+        {
+            "nama": "Soft Caramel Pudding",
+            "kandungan": "Pudding",
+            "komposisi": "Pudding lembut dengan saus karamel spesial",
+            "harga": 18000,
+            "gambar": "Soft-Caramel-Pudding.jpg"
+        },
+        {
+            "nama": "Bento Special",
+            "kandungan": "Ayam",
+            "komposisi": "Nasi,Salad,Chicken Teriyaki,Tori No Teba dan Ebi Furai ",
+            "harga": 54000,
+            "gambar": "bs1.jpg"
+        },
+        {
+            "nama": "Bento Special",
+            "kandungan": "Sapi",
+            "komposisi": "Nasi,Salad,Beef Yakiniku,Tori no Teba dan Kani Roll",
+            "harga": 59000,
+            "gambar": "bs2.jpg"
+        },
+        {
+            "nama": "Bento Special",
+            "kandungan": "Sapi",
+            "komposisi": "Nasi,Salad,Beef Yakiniku,Tori no Teba,Ebi Furai,Ebi Fried ",
+            "harga": 59000,
+            "gambar": "bs3.jpg"
+        },
+        {
+            "nama": "Bento Special",
+            "kandungan": "Udang",
+            "komposisi": "Nasi,Salad,Beef Teriyaki,Tori no Teba,Ebi Furai,Ebi Fried ",
+            "harga": 59000,
+            "gambar": "bs4.jpg"
+        }
+    ]
+}
